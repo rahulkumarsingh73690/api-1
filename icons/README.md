@@ -4,7 +4,7 @@ This directory contains custom icon sets and icons.
 
 ## Icon sets
 
-Icon sets are stored in IconifyJSON format.
+Icon sets are stored in IconifyJSON formats
 
 You can use Iconify Tools to create icon sets. See [Iconify Tools documentation](https://docs.iconify.design/tools/tools2/).
 
